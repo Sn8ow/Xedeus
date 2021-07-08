@@ -1,4 +1,4 @@
-# Xedeus
+# Xedeus Jammer
  </p>
  <p align="center">
  <img src="xedeusbanner.png">
